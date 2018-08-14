@@ -1,3 +1,3 @@
 $(document).ready({
-	test
+	test 22
 });
